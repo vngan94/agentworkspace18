@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>true</click_in_mode>
+        <context_config_id display_value="18 - Workspace Search">a6a7e0c4555ea51026dc72899fb06331</context_config_id>
+        <limit>5</limit>
+        <order>100</order>
+        <section_header>Recent searches</section_header>
+        <suggestion_type>Recent Search Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 11:19:58</sys_created_on>
+        <sys_id>66a7e0c4735ea5109b7694fd704d0330</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recent Search Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="abcd" source="x_1007462_abcd">20c5cb3b978e6510ad49fb500153afad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abcd">20c5cb3b978e6510ad49fb500153afad</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_66a7e0c4735ea5109b7694fd704d0330</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 11:19:58</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

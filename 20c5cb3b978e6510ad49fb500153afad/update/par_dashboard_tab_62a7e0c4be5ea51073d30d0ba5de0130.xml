@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <dashboard display_value="18">eea7e0c4975ea5102c265770e8550c2b</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 11:19:58</sys_created_on>
+        <sys_id>62a7e0c4be5ea51073d30d0ba5de0130</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_package display_value="abcd" source="x_1007462_abcd">20c5cb3b978e6510ad49fb500153afad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abcd">20c5cb3b978e6510ad49fb500153afad</sys_scope>
+        <sys_update_name>par_dashboard_tab_62a7e0c4be5ea51073d30d0ba5de0130</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 11:19:58</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>

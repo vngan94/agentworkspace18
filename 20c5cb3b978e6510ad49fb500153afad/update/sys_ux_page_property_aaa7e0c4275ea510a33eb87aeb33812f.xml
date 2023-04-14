@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="18">2ea7e0c4075ea51086f994222d6edc2c</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 11:19:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>aaa7e0c4275ea510a33eb87aeb33812f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="abcd" source="x_1007462_abcd">20c5cb3b978e6510ad49fb500153afad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abcd">20c5cb3b978e6510ad49fb500153afad</sys_scope>
+        <sys_update_name>sys_ux_page_property_aaa7e0c4275ea510a33eb87aeb33812f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 11:19:58</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1007462_abcd.2ea7e0c4075ea51086f994222d6edc2c.root.globalSearchDataConfigId</unique_name>
+        <value>a6a7e0c4555ea51026dc72899fb06331</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=aaa7e0c4275ea510a33eb87aeb33812f"/>
+</record_update>
